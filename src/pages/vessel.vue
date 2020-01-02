@@ -10,7 +10,7 @@
     <deformable-box
       v-if="isPC"
       :resizable="['right']"
-      :initWidth="800"
+      :initWidth="650"
       :maxWidth="1100"
       :minWidth="400"
     >
